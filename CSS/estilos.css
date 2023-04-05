@@ -1,8 +1,30 @@
 
-.container{
-    background: aquamarine;
+
+*{
+    margin: 100;
+    padding: 200;
 }
 
-#titulo{
-    color: brown;
+body{
+    background-color: rgba(0, 225, 255, 0.205);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 1000px;
+    margin: 20px;
+    color: rgba(255, 255, 0, 0.918);
+}
+
+#content{
+    width: 1000px;
+
+
+#fondo{
+    background: azure;
+}
+        
+
+.colores{
+    color: aqua;
 }
